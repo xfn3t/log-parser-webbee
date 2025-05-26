@@ -22,7 +22,7 @@
 1. Скомпилировать проект:
 
    ```bash
-   javac -d out -sourcepath src src/main/java/ru/logger/App.java
+   javac -d out -sourcepath src/main/java src/main/java/ru/logger/App.java
    ```
    
     или
